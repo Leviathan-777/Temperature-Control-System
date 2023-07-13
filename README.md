@@ -4,7 +4,7 @@ System adjusts the heating schedule individually to each room. The system consis
 
 
 
-System rules
+# System rules
 
 Rule 1: If the current temperature is below the desired temperature, turn on the heating.
 
