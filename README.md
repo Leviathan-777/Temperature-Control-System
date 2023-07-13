@@ -3,6 +3,7 @@
 System adjusts the heating schedule individually to each room. The system consists of 5 rules that decide if the heating should be turned on or turned off. The system also checks it previous actions and remembers if the heating in the room was turned on or off. If in the next action it needs to stay turned off or on, the system makes action of remaining off/on.
 
 
+
 System rules
 
 Rule 1: If the current temperature is below the desired temperature, turn on the heating.
